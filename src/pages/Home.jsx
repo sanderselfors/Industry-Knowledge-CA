@@ -44,7 +44,7 @@ const App = () => {
         <div className="hero-overlay bg-opacity-60"></div>
         <div className="hero-content text-center text-neutral-content">
           <div className="max-w-md">
-            <h1 className="mb-5 text-5xl font-bold">Empowering Your Events</h1>
+            <h1 className="mb-5 text-5xl font-bold">Share Your Events</h1>
             <p className="mb-5">Discover and share meaningful experiences. Create and join events in your community.</p>
             
           </div>
