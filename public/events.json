@@ -1,0 +1,35 @@
+[
+    {
+      "id": 1,
+      "title": "Oslo Marathon",
+      "date": "2024-03-10",
+      "location": "Oslo City Center",
+      "description": "Join the annual Oslo Marathon and run through the beautiful city streets.",
+      "imageURL": "https://tellusdmsmedia.newmindmedia.com/wsimgs/BE9B83857B76E291960957A41C53F12F4A22692E.jpg[ProductImage]"
+    },
+    {
+      "id": 2,
+      "title": "Oslo Jazz Festival",
+      "date": "2024-04-15",
+      "location": "Various Venues",
+      "description": "Experience world-class jazz performances at the Oslo Jazz Festival.",
+      "imageURL": "https://www.visitoslo.com/link/1362f2afb1aa46aea43a7bc461b3d388.aspx"
+    },
+    {
+      "id": 3,
+      "title": "Oslo Food Festival",
+      "date": "2024-05-20",
+      "location": "Aker Brygge",
+      "description": "Explore a variety of delicious cuisines at the Oslo Food Festival.",
+      "imageURL": "https://static.independent.co.uk/2022/06/15/14/taste-of-london.jpeg"
+    },
+    {
+        "id": 4,
+        "title": "Oslo Film Festival",
+        "date": "2024-06-25",
+        "location": "Cinemas across Oslo",
+        "description": "Enjoy a showcase of international and local films at the Oslo Film Festival.",
+        "imageURL": "https://tellusdmsmedia.newmindmedia.com/wsimgs/Colosseum_ute_1547988211.JPG"
+      }
+  ]
+  
